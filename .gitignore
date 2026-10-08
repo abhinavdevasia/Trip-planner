@@ -1,0 +1,10 @@
+# Local SQLite database
+travel_planner.sqlite
+
+# Generated zip files
+travel_planner.zip
+
+# System and logs
+.DS_Store
+Thumbs.db
+*.log
